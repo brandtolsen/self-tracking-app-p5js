@@ -18,4 +18,4 @@ KEYBOARD
 - Pressing “Enter” saves data
 
 ## Credits
-This project was done during a specialization course in Designing Interactions at the IT University in Copenhagen (2019) in collaboration with Amanda Jensen, Asbjørn Mejlvang and Kasper Månsson.
+This project was done during a specialization course in Designing Interactions at the IT University of Copenhagen (2019) in collaboration with Amanda Jensen, Asbjørn Mejlvang and Kasper Månsson.
